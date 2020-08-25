@@ -2,6 +2,9 @@
 This repo contains OOP python projects.
 
 ## 1. Password Vault using Tkinter and MySQL
+
+    -Made with Tkinter and Python
+    -Updates will have MySQL also to integrate databases with it.
   
 ## 2. Chatbot (TimeZone Chatbot)
 
