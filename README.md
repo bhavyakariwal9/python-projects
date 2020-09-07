@@ -10,4 +10,6 @@ This repo contains OOP python projects.
 
     -Made with Rasa and Python
     -Install Rasa in your system and use the "rasa init" command to initialize a basic template for your chatbot.
+
+    ![](Chatbot/.timezone/Screenshot.png)
     
